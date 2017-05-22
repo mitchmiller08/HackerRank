@@ -1,0 +1,3 @@
+The repo contains code generated from Hackerrank tutorials and challenges.  I am focusing on material taught in low level CS courses that I have not taken during my Physics education:  data structures and algorithms.  I am focusing on creating code with C++ but some mathematics focused challenges (such as the "10 Days of Statistics" tutorial) are done in R.  
+
+Hackerrank has a built-in compiler and command line so code is automatically given input and the output is tested against known solutions.  Details of the problems can be found on Hackerrank, each directory is the name of track and each file is an individual problem.  
